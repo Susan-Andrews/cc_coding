@@ -1,3 +1,3 @@
 # cc_coding
   
-Codechef competative coding  
+Codechef competative coding  practice basics.
